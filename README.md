@@ -1,3 +1,9 @@
+## Este projeto foi desenvolvido em grupo e no ambiente acadêmico da PUC Minas Virtual no 1° período de SI (2° semestre de 2022).
+O projeto consiste em uma aplicação Web que busca combater as influências e efeitos negativos que as notícias falsas podem causar na sociedade.
+As ferramentas principais desta aplicação estão divididas entre um blog informativo, um feed rss que reúne notícias filtradas de fontes confiáveis e um buscador que filtra os resultados de fontes confiáveis para o usuário.
+
+
+
 # Not so Fake
 
 `CURSO: Sistemas de Informação`
